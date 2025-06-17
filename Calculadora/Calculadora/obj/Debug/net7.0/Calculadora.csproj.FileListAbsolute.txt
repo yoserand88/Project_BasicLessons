@@ -1,0 +1,15 @@
+D:\Descargas\Ruta Python\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.exe
+D:\Descargas\Ruta Python\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+D:\Descargas\Ruta Python\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+D:\Descargas\Ruta Python\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.dll
+D:\Descargas\Ruta Python\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.dll
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
+D:\Descargas\Ruta Python\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.sourcelink.json

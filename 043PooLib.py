@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 import PooLib042
 class Usuario_Premium(PooLib042.Usuario):
     def __init__(self, id, alias, nombre, apellidos,sorteos,puntos):
